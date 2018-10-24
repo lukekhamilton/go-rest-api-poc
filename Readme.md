@@ -1,5 +1,5 @@
 
-# GoLang Rest API POC 
+# GoLang Rest API POC using the Mux toolkit
 
 Based on this article:
 
